@@ -46,8 +46,35 @@ Ketika program dijalankan, sistem akan langsung menampilkan menu utama yang beri
 
 ## 1. Tambah Data Mobil
 
+<img width="914" height="254" alt="image" src="https://github.com/user-attachments/assets/f9b9aefa-80c5-4588-96d4-de723fdc86ef" />
 
+Saat memilih menu ini, pengguna diminta menginput informasi mobil seperti merk, model, tahun, dan harga. Data yang sudah diisi akan masuk ke dalam ArrayList dan program menampilkan pesan konfirmasi bahwa data berhasil ditambahkan.
 
+## 2. Lihat Data Mobil
+
+<img width="719" height="176" alt="image" src="https://github.com/user-attachments/assets/366fa961-216f-4824-a77a-d6859f76e1c8" />
+
+Jika pengguna memilih opsi 2 program akan menampilkan seluruh data mobil yang sudah tersimpan. Jika daftar kosong, program akan memberi tahu bahwa belum ada data yang tersedia.
+
+## 3. Ubah Data Mobil
+
+<img width="919" height="305" alt="image" src="https://github.com/user-attachments/assets/7d6bd25d-1f1d-400d-a168-f5951bed8955" />
+
+Pada pilihan ini, pengguna dapat memperbarui data mobil yang sudah ada. Program akan meminta nomor urut data yang ingin diganti, lalu menyuruh pengguna memasukkan input data baru dan menyimpannya sebagai pengganti data lama. Disini saya mengganti data pada bagian harga.
+
+<img width="830" height="182" alt="image" src="https://github.com/user-attachments/assets/de3b04fe-f5b6-45bd-999c-3dbec59b7324" />
+
+Bisa kita lihat jika data di cek kembali maka harga nya telah berubah.
+
+## 4. Hapus Data Mobil
+
+<img width="977" height="215" alt="image" src="https://github.com/user-attachments/assets/e3d8810a-4414-4c18-a27b-e5923e06d477" />
+
+Pada opsi ini memungkinkan pengguna menghilangkan data mobil tertentu dari daftar data. Setelah memilih nomor urut mobil, data tersebut akan dihapus dari ArrayList. Disini saya menghapus data pada nomor 1.
+
+<img width="914" height="170" alt="image" src="https://github.com/user-attachments/assets/1df1d222-100e-4725-8046-a43be58f99ea" />
+
+Bisa dilihat jika kita cek lagi maka data nya mobil nya sudah tidak ada dan menampilkan output "Belum ada data".
 
 
 
